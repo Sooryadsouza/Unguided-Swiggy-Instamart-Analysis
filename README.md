@@ -8,4 +8,4 @@ Developed comprehensive Power BI reports for global analysis using Power Query, 
 
 Assessed performance by outlet type, size, and location, providing actionable insights for strategic improvements.
 
-Conducted a detailed analysis of low-fat item sales contributing $2 million and categorized major product types by sales figures.
+Conducted a detailed analysis of low-fat item sales contributing $2 million and categorized major product types by sales figures..
